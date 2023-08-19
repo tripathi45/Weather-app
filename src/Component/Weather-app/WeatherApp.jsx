@@ -33,8 +33,7 @@ const WeatherApp = () => {
     setWeatherData({
       humidity: `${data.main.humidity}%`,
       windSpeed: `${data.wind.speed} km/h`,
-      temperature: `${updatedtemprature}°C`,
-      location: data.name,
+      temperature: `${updatedtemprature}°C`,location: data.name,
       weatherType: data.weather[0].icon,
     });
   };
