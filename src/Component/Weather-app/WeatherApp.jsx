@@ -4,7 +4,6 @@ import {
   BsFillCloudFog2Fill,
   BsFillCloudSunFill,
   BsWater,
-  BsFillCloudyFill,
 } from "react-icons/bs";
 import { GiRaining } from "react-icons/gi";
 import { LuCloudy } from "react-icons/lu";
